@@ -1,6 +1,6 @@
 ### RAG application using LangChain
 
-This project has a [Supporting article]() in my blog.
+This project has a [Supporting article](https://vignesh.page/posts/rag_using_langchain_langsmith/) in my blog.
 
 This project uses all open source and freely available resources to create a simple LangChain application.
 
