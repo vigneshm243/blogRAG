@@ -1,0 +1,6 @@
+langchain_community 
+tiktoken 
+langchainhub 
+chromadb 
+langchain 
+langchain_huggingface
